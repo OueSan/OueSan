@@ -4,12 +4,6 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucasoue11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/OueSan/)
 
-
-<!-- GitHub Stats -->
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Oue's Stats" /> 
-
-</div>
-
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -26,7 +20,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"alt="Kotlin"  width="40" height="40"/>
           
           
-</div><br/>
+</div><br/>+
+
+<!-- GitHub Stats -->
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Oue's Stats" /> 
+
+</div>
+
+
 
 
 
