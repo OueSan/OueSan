@@ -1,4 +1,4 @@
-### Hello everyone! I'm Lucas Oue 👋
+### Hello everyone!👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oue-880802264/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucasoue11)
@@ -6,9 +6,10 @@
 
 
 !<!-- GitHub Stats -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
+<div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OueSan&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
+
 </div>
 
 ## Languages and Tools:
