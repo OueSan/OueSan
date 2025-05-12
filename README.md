@@ -7,7 +7,7 @@
 
 <!-- GitHub Stats -->
 <div align="center"> 
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Oue's Stats" /> 
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Oue's Stats" /> 
 
 </div>
 
