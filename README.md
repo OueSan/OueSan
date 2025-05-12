@@ -5,10 +5,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/OueSan/)
 
 
-!<!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OueSan&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
 
 </div>
 
