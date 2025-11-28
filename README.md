@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/OueSan/)
 
 
-![Lucas's Github stats](https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&theme=tokyonight)
+![Lucas's Github stats](https://github-readme-stats.vercel.app/api?username=OueSan&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ## Languages and Tools:
