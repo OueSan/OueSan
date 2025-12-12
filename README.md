@@ -4,7 +4,7 @@ Cloud Security Engineer | Penetration Testing Enthusiast
 Focused on: AWS Security • Network Security • Offensive Security
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oue-880802264/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/OueSan])
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OueSan/)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](seu-link-htb)
 
 ![Lucas's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OueSan&show_icons=true&theme=tokyonight)
