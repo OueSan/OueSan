@@ -1,50 +1,67 @@
 # Lucas Oue
 
-Cloud Security Engineer | Penetration Testing Enthusiast  
-Focused on: AWS Security • Network Security • Offensive Security
+**Cloud Security Engineer**
+Specialized in **AWS Security, Network Security, and Offensive Security**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oue-880802264/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OueSan/)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](seu-link-htb)
+Security-focused engineer with hands-on experience designing, securing, and automating cloud and network environments. Strong background in cloud infrastructure, security controls, and offensive security methodologies, with a continuous focus on building resilient and scalable systems.
 
-![Lucas's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OueSan&show_icons=true&theme=tokyonight)
+---
 
-## Security Arsenal
+### Professional Focus
 
-### Cloud & Infrastructure
-<div style="display: inline_block"><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</div>
+* Cloud Security Architecture (AWS)
+* Network Security & Segmentation
+* Security Automation & Scripting
+* Offensive Security & Vulnerability Analysis
+* Infrastructure as Code (Terraform)
 
-### Programming & Automation
-<div style="display: inline_block"><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
+---
 
-### Networking & Databases
-<div style="display: inline_block"><br/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" alt="Cisco" width="80" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</div>
+### Tooling & Technologies
 
-## Certifications & Learning
+**Cloud & Infrastructure**
+AWS • Terraform • Docker • Kubernetes • Linux
 
-- CCNA - Cisco Certified Network Associate
-- AWS Cloud Pratictioner (in progress)
-- DESEC Security Certification (in progress)
-- PortSwigger Academy - Web Security (in progress)
+**Programming & Automation**
+Python • Go • Bash • Git
 
-## Currently
+**Networking & Data**
+Cisco Networking • PostgreSQL • MongoDB • Cassandra
 
-- Practicing on: PortSwigger Academy, HackTheBox, TryHackMe
-- Building: Security automation tools & AWS security architectures
-- Studying: CCNA, Penetration Testing, Cloud Security
-- Open to: Remote Security Engineer opportunities
+---
+
+### Certifications & Formal Training
+
+* **CCNA – Cisco Certified Network Associate**
+* **AWS Certified Cloud Practitioner** *(in progress)*
+* **DESEC Security Certification** *(in progress)*
+* **LPIC-1 – Linux Professional Institute** *(in progress)*
+* **PortSwigger Web Security Academy** *(ongoing)*
+
+---
+
+### Practical Experience & Labs
+
+* Web application security testing using OWASP methodologies
+* Cloud security hardening and IAM design on AWS
+* Network configuration, segmentation, and traffic analysis
+* Security automation scripts for monitoring and validation
+
+---
+
+### GitHub Activity
+
+![Lucas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OueSan\&show_icons=true\&theme=tokyonight)
+
+---
+
+### Professional Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-oue-880802264/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=orange)](https://leetcode.com/u/OueSan/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/OueSan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucasoue11@gmail.com)
+
+---
+
+> *Open to remote opportunities in Cloud Security, Security Engineering, and Infrastructure Security.*
