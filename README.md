@@ -63,4 +63,4 @@ Cisco Networking • PostgreSQL • MongoDB • Cassandra
 
 ---
 
-> *Open to remote opportunities in Cloud Security, Security Engineering, and Infrastructure Security.*
+> Open to remote opportunities in Cloud Security, Security Engineering, and Infrastructure Security.
