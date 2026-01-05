@@ -1,20 +1,21 @@
 # Lucas Oue
 
-**Cloud Security Engineer**
-Specialized in **AWS Security, Network Security, and Offensive Security**
+**Cloud & Security Engineer**
+Specialized in **AWS, Cloud Security, DevOps, and Infrastructure Automation**
 
-Security-focused engineer with hands-on experience designing, securing, and automating cloud and network environments. Strong background in cloud infrastructure, security controls, and offensive security methodologies, with a continuous focus on building resilient and scalable systems.
+Cloud and security-focused engineer with hands-on experience designing, securing, and automating cloud-native and network environments. Strong background in AWS infrastructure, DevOps practices, security controls, and offensive security techniques, with a continuous focus on building resilient, scalable, and secure systems.
+
 
 ---
 
 ### Professional Focus
 
 * Cloud Engineering & AWS Architecture
-* Cloud Security Engineering (AWS)
-* DevOps & SRE Practices
+* DevOps & Site Reliability Engineering (SRE)
 * Infrastructure as Code (Terraform)
 * Kubernetes & Container Security
 * CI/CD, Automation & Security Pipelines
+* Cloud Security Engineering (AWS)
 * Network Security, Segmentation & Zero Trust
 * Security Automation & Scripting
 
@@ -22,12 +23,15 @@ Security-focused engineer with hands-on experience designing, securing, and auto
 
 ### Certifications & Formal Training
 
-* **AWS Cloud Practitioner, AWS Solutions Architect - Associate, AWS Cloud Ops - Associate** 
+* **AWS Certified Cloud Practitioner**
+* **AWS Certified Solutions Architect – Associate**
+* **AWS Certified SysOps Administrator – Associate**
 * **CCNA – Cisco Certified Network Associate**
-* **DESEC Security Certification** 
 * **Certified Kubernetes Administrator (CKA)**
-* **Certified Terraform - HashiCorp**
-* **Itil 4 - Foundation**
+* **HashiCorp Certified: Terraform Associate**
+* **DESEC Security Certification**
+* **ITIL 4 – Foundation**
+
 
 ---
 
@@ -45,4 +49,5 @@ Security-focused engineer with hands-on experience designing, securing, and auto
 
 ---
 
-> Open to remote opportunities in Cloud Security, Security Engineering, and Infrastructure Security.
+ Open to remote opportunities in Cloud Engineering, DevOps, SRE, and Cloud Security.
+
