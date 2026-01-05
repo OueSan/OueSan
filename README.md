@@ -9,43 +9,25 @@ Security-focused engineer with hands-on experience designing, securing, and auto
 
 ### Professional Focus
 
-* Cloud Security Architecture (AWS)
-* Network Security & Segmentation
-* Security Automation & Scripting
-* Offensive Security & Vulnerability Analysis
+* Cloud Engineering & AWS Architecture
+* Cloud Security Engineering (AWS)
+* DevOps & SRE Practices
 * Infrastructure as Code (Terraform)
-
----
-
-### Tooling & Technologies
-
-**Cloud & Infrastructure**
-AWS • Terraform • Docker • Kubernetes • Linux
-
-**Programming & Automation**
-Python • Go • Bash • Git
-
-**Networking & Data**
-Cisco Networking • PostgreSQL • MongoDB • Cassandra
+* Kubernetes & Container Security
+* CI/CD, Automation & Security Pipelines
+* Network Security, Segmentation & Zero Trust
+* Security Automation & Scripting
 
 ---
 
 ### Certifications & Formal Training
 
+* **AWS Cloud Practitioner, AWS Solutions Architect - Associate, AWS Cloud Ops - Associate** 
 * **CCNA – Cisco Certified Network Associate**
-* **AWS Certified Cloud Practitioner** *(in progress)*
-* **DESEC Security Certification** *(in progress)*
-* **LPIC-1 – Linux Professional Institute** *(in progress)*
-* **PortSwigger Web Security Academy** *(ongoing)*
-
----
-
-### Practical Experience & Labs
-
-* Web application security testing using OWASP methodologies
-* Cloud security hardening and IAM design on AWS
-* Network configuration, segmentation, and traffic analysis
-* Security automation scripts for monitoring and validation
+* **DESEC Security Certification** 
+* **Certified Kubernetes Administrator (CKA)**
+* **Certified Terraform - HashiCorp**
+* **Itil 4 - Foundation**
 
 ---
 
