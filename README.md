@@ -45,7 +45,6 @@ Cloud and security-focused engineer with hands-on experience designing, securing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-oue-880802264/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=orange)](https://leetcode.com/u/OueSan/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/OueSan/)
 
 ---
 
