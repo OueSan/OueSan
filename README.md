@@ -15,7 +15,7 @@ Cloud and security-focused engineer with hands-on experience designing, securing
 * Infrastructure as Code (Terraform)
 * Kubernetes & Container Security
 * CI/CD, Automation & Security Pipelines
-* Cloud Security Engineering (AWS)
+* Cloud Security Engineering AWS
 * Network Security, Segmentation & Zero Trust
 * Security Automation & Scripting
 
