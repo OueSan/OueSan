@@ -33,6 +33,7 @@ In Progress
 * **DESEC Security Certification**
 * **ITIL 4 – Foundation**
 * **COBIT 2019 Foundation**
+* **Certified Cloud Security Professional (CCSP)**
 
 ---
 
