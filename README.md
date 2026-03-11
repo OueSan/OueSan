@@ -25,10 +25,10 @@ Cloud and security-focused engineer with hands-on experience designing, securing
 
 * **AWS Certified Cloud Practitioner**
 * **AWS Certified Solutions Architect – Associate**
-* **AWS Certified SysOps Administrator – Associate**
 * **CCNA – Cisco Certified Network Associate**
 
 In Progress
+* **LPIC-1 - Linux Certificate**
 * **Certified Kubernetes Administrator (CKA)**
 * **HashiCorp Certified: Terraform Associate**
 * **DESEC Security Certification**
