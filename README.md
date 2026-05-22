@@ -24,7 +24,6 @@ Cloud and security-focused engineer with hands-on experience designing, securing
 ### Certifications & Formal Training
 
 * **AWS Certified Cloud Practitioner**
-* **AWS Certified Solutions Architect – Associate**
 * **CCNA – Cisco Certified Network Associate**
 
 In Progress
