@@ -31,7 +31,7 @@ In Progress
 * **Certified Kubernetes Administrator (CKA)**
 * **HashiCorp Certified: Terraform Associate**
 * **DESEC Security Certification**
-* **ITIL 4 – Foundation**
+* **ITIL 5 – Foundation**
 * **COBIT 2019 Foundation**
 * **Certified Cloud Security Professional (CCSP)**
 
