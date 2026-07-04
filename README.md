@@ -28,12 +28,9 @@ Cloud and security-focused engineer with hands-on experience designing, securing
 
 In Progress
 * **LPIC-1 - Linux Certificate**
-* **Certified Kubernetes Administrator (CKA)**
-* **HashiCorp Certified: Terraform Associate**
-* **DESEC Security Certification**
 * **ITIL 5 – Foundation**
 * **COBIT 2019 Foundation**
-* **Certified Cloud Security Professional (CCSP)**
+* **Project Management Professional**
 
 ---
 
